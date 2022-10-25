@@ -1,0 +1,16 @@
+C:\new project\CSharp11\bin\Debug\net5.0\CSharp11.exe
+C:\new project\CSharp11\bin\Debug\net5.0\CSharp11.deps.json
+C:\new project\CSharp11\bin\Debug\net5.0\CSharp11.runtimeconfig.json
+C:\new project\CSharp11\bin\Debug\net5.0\CSharp11.runtimeconfig.dev.json
+C:\new project\CSharp11\bin\Debug\net5.0\CSharp11.dll
+C:\new project\CSharp11\bin\Debug\net5.0\ref\CSharp11.dll
+C:\new project\CSharp11\bin\Debug\net5.0\CSharp11.pdb
+C:\new project\CSharp11\obj\Debug\net5.0\CSharp11.csproj.AssemblyReference.cache
+C:\new project\CSharp11\obj\Debug\net5.0\CSharp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\new project\CSharp11\obj\Debug\net5.0\CSharp11.AssemblyInfoInputs.cache
+C:\new project\CSharp11\obj\Debug\net5.0\CSharp11.AssemblyInfo.cs
+C:\new project\CSharp11\obj\Debug\net5.0\CSharp11.csproj.CoreCompileInputs.cache
+C:\new project\CSharp11\obj\Debug\net5.0\CSharp11.dll
+C:\new project\CSharp11\obj\Debug\net5.0\ref\CSharp11.dll
+C:\new project\CSharp11\obj\Debug\net5.0\CSharp11.pdb
+C:\new project\CSharp11\obj\Debug\net5.0\CSharp11.genruntimeconfig.cache
